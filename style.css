@@ -1,0 +1,60 @@
+		.top {
+			height: 70px;
+			display: flex;
+			padding-top: 30px;
+		}
+		.banner {
+			height: 670px;
+			background-image: url(banner.png);
+			background-size: 100% 100%;
+			padding-top: 30px;
+		}
+		.content {
+			height: 450px;
+		}
+		.parent {
+			width: 1300px;
+			height: 450px;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: center;
+			display: flex;
+		}
+		.info {
+		    height: 375px;
+		    width: 300px;
+		    margin-left: 30px;
+		    padding-top: 75px;
+		}
+		.first {
+			margin-left: 0px;
+		}
+		.logo {
+			margin-left: 200px;
+		}
+		.links {
+			margin-left: 300px;
+		}
+		a {
+			margin-left: 50px;
+			font-size: 20px;
+			text-decoration: none;
+			color: #49cbcd;
+		}
+		h1 {
+			color: white;
+			text-align: center;
+			font-size: 60px;
+			margin-top: 270px;
+		}
+		body {
+			font-family: Arial;
+		}
+		p {
+			color: grey;
+		}
+		.btn {
+			border: none;
+			border-radius: 100px;
+			color: cyan;
+		}
